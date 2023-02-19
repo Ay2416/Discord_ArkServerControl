@@ -1,7 +1,7 @@
 # Discord_ArkServerControl
 
 ## Download
-[Click]()
+[Click](https://github.com/Ay2416/Discord_ArkServerControl/archive/refs/heads/main.zip)
 
 ## Other Information
 Sorry, please wait detail...
