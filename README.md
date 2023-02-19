@@ -4,9 +4,9 @@
 [Click](https://github.com/Ay2416/Discord_ArkServerControl/archive/refs/heads/main.zip)
 
 ## Table of contents
-[Japanese](https://github.com/Ay2416/Discord_MessageAutoRole#japanese)
+[Japanese](https://github.com/Ay2416/Discord_ArkServerControl#japanese)
 
-[English](https://github.com/Ay2416/Discord_MessageAutoRole#english)
+[English](https://github.com/Ay2416/Discord_ArkServerControl#english)
 
 # Japanese
 
