@@ -28,6 +28,8 @@ Discord上で動作する、Arkmanager導入済みのLinux上で動く、サー�
 
 ## 動作方法
 
+しばらくお待ちください、制作中です...。
+
 ## 利用したもの、参考にしたサイト
 
 * コードのベースにさせていただいた方の記事：[https://qiita.com/Mikage32/items/93ffc30a62480d39e82e](https://qiita.com/Mikage32/items/93ffc30a62480d39e82e)
@@ -57,6 +59,8 @@ It work on the Linux, and need to install arkmanager.
 It arkmanager server manage. 
 
 ## How to use?
+
+Please wait, editting...
 
 ## Extension library and use data
 
